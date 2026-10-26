@@ -1,0 +1,467 @@
+{
+  "format": "catalog-overlay-1",
+  "package": "com.gemez.modbussidherexcanter",
+  "seq": 3,
+  "removed": [],
+  "patch": [],
+  "highlight": [
+    "truck-canter-herex-stainless",
+    "truck-canter-custom-13-varian-topi",
+    "truck-canter-varian-rak-stainless",
+    "canter-padang-style-01",
+    "canter-flatbed-kuning"
+  ],
+  "categories": [],
+  "items": [
+    {
+      "id": "canter-dont-panic",
+      "title": "Canter Dont Panic",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/8e/61/f3/8e61f37b7b45aa9ce5a6df2889a65285.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/d7/d7ead11eaec87bfbee3074c05c6b2c4767cca33ca6fa1557a51d4560e3cf67f7.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/c7/c79d5814d004b8d3641e247c79942e7384f8f388e194246cc13690ffa56cad7d.png"
+    },
+    {
+      "id": "canter-new-selinda",
+      "title": "Canter New Selinda",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/cd/71/72/cd7172e70b6c1547b3c63022367311ff.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/95/95ec77afd7f613e6df263fdd2c6ed206891f6ce86becc57febdba0e1024d5925.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/ac/ac015b729672292ff001717bea763941871578f61c7e6885dd6382e7872ac55f.png"
+    },
+    {
+      "id": "canter-padang",
+      "title": "Canter Padang",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/236x/86/23/4d/86234d78410b7b6a02d88805a612a4a9.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/f8/f86fbbd21f5b93d5be3b1efd2a94abad4ac48f26809e8dee11ec0e0c8720b154.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/7e/7e604631084578af50bf4cad502572bbe1555dcc2a2466d39fd22da4c785125a.png"
+    },
+    {
+      "id": "canter-ayam-sus-real",
+      "title": "Canter Ayam Sus Real",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/ba/51/91/ba5191ce5eb7331dc0165c2189c7fc32.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/ae/ae555da7edd484e5e6915459cadf641220f776365c47ac448027b8eae2d6b7c2.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/e0/e0c9fb606486df3610978a87e8975c77660c1fec9fc7ce20e4cd9dae518a474a.png"
+    },
+    {
+      "id": "canter-full-strobo",
+      "title": "Canter Full Strobo",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/39/ad/da/39adda9d6fb2259fa2dc3a62f47f19f7.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/89/890e17196bb716458f89219e4053b958835865c507c7408de7dd4fecfccf1f15.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/06/06b42f62f5e691257614c50e7a82a78f324455d2a59681952b8e71963e5c099b.png"
+    },
+    {
+      "id": "canter-sang-raja",
+      "title": "Canter Sang Raja",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/f8/f8/99/f8f8996415b8cbbfa72e0d909eaa2a0e.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/ec/ec3e092435f733d5243badcb9cf3330210212f9d51c2331cb95d5c2dd4a0b4a9.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/d4/d4f85d720788e5c1f7dff99e434e1594c980d7e4ace3235bc21344af63afa5d4.png"
+    },
+    {
+      "id": "canter-panda",
+      "title": "Canter Panda",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/cb/ab/c8/cbabc8aa34dd0dd1367110a56068dbc3.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/ae/aecfb0ccebf43bbc228cfeade25142ad040886f1f04cd5396647993848052d4d.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/e5/e57649671985d4585f342c654990472d1e6c4054e5ee3e255b39a1e77ee67988.png"
+    },
+    {
+      "id": "canter-fuso-s9-01",
+      "title": "Canter Fuso S9 01",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/75/09/37/750937c921f1dfe8a9bcf432bc10c249.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/41/41840368030fa3c8e3e3959b955afbe2d7fc8a3c4f3ac08479c2b1df5a5b458c.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/75/75eca0f37490388594acb4e64c81f7ee8e756b4620ad08685eb18603c66f810f.png"
+    },
+    {
+      "id": "canter-fuso-s9-02",
+      "title": "Canter Fuso S9 02",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/07/50/d7/0750d724a35fbd06522d996a06251098.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/41/41840368030fa3c8e3e3959b955afbe2d7fc8a3c4f3ac08479c2b1df5a5b458c.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/b7/b7103fe48eb4d8c13f18aed3de605f6892c711bab3ab1ae43444a5cdf5449fdb.png"
+    },
+    {
+      "id": "canter-fuso-s9-03",
+      "title": "Canter Fuso S9 03",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/d7/02/64/d70264b3e409b529743e00c5a5d10deb.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/41/41840368030fa3c8e3e3959b955afbe2d7fc8a3c4f3ac08479c2b1df5a5b458c.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/3a/3afa51df071737a7e7d878e904b034c701171ed533e5fb0d1fc9150669deaaba.png"
+    },
+    {
+      "id": "canter-fuso-s9-04",
+      "title": "Canter Fuso S9 04",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/8e/ad/5b/8ead5bf3e8057e63e575501cc9f502b7.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/41/41840368030fa3c8e3e3959b955afbe2d7fc8a3c4f3ac08479c2b1df5a5b458c.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/cc/ccc2aed417d0c79546e9ae0fc8f6427b0469c44e6bd828f884927d7d201be0fc.png"
+    },
+    {
+      "id": "canter-bsj",
+      "title": "Canter BSJ",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/7a/15/33/7a1533285827458aa542cce2a1a920b0.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/b2/b26b7ef22e972a28526a35d78d55cdbbe8eacf049c51f9a8e294faf515e8418f.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/58/58f0627b5c3ecdb6785427b5189bcea4c963d9e57123e70064481559cc00c5a2.png"
+    },
+    {
+      "id": "wahyu-abadi-02-canter-costum-12",
+      "title": "Wahyu Abadi 02 Canter Costum 12",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/5a/60/25/5a60252c533af53691d8c82e3078dccb.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/af/af811c10a1efa206aa5ad2d6c973e961e5950f552f45d390973abf0690921107.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/59/59254f700ae7ae7cc670a7c40d7ede5c399201cd1ba0e7c7fa1038486933743e.png"
+    },
+    {
+      "id": "kuning-canter-costum-12",
+      "title": "Kuning Canter Costum 12",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/2e/c2/8d/2ec28d57414b563706811ec14eef62d9.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/af/af811c10a1efa206aa5ad2d6c973e961e5950f552f45d390973abf0690921107.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/e7/e7f8e8639ca536fe088d14667beac0a07df03a0847fced6ce1234c53a00960ba.png"
+    },
+    {
+      "id": "lintas-01-canter-costum-12",
+      "title": "Lintas 01 Canter Costum 12",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/d5/c2/1a/d5c21a3adc068e05dea3c0d84fcd9297.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/af/af811c10a1efa206aa5ad2d6c973e961e5950f552f45d390973abf0690921107.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/1e/1e59fb84f2c2ad448bb63307e5bd4fd80cd3164581c86b48198df003c2120bc1.png"
+    },
+    {
+      "id": "lintas-02-canter-costum-12",
+      "title": "Lintas 02 Canter Costum 12",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/c7/e1/db/c7e1db7f2a84bc7289cabc4c38920905.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/af/af811c10a1efa206aa5ad2d6c973e961e5950f552f45d390973abf0690921107.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/2b/2b63b445774bdc333b62e377618f3c2504719785daa721ad236d3d37428fcf65.png"
+    },
+    {
+      "id": "biru-canter-costum-12",
+      "title": "Biru Canter Costum 12",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/4d/92/7b/4d927b2423f7bd682c1847929fe1b883.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/af/af811c10a1efa206aa5ad2d6c973e961e5950f552f45d390973abf0690921107.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/15/157ee896e5958fbdaf044300b836c93ff3154589d28bab646e7b52fb1ceb6cdb.png"
+    },
+    {
+      "id": "canter-semen-01",
+      "title": "Canter Semen 01",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/ce/75/5d/ce755d6c5e46ebc058110d50f4692fb6.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/18/18a0ca41417aa28a7636fb58d91fa7897d09300e26da0a5bd5054a84e9a73495.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/76/765e0e581ef15df689307b76a520a20909c3cb94ccee93d3968e6ea72d139fb4.png"
+    },
+    {
+      "id": "canter-semen-02",
+      "title": "Canter Semen 02",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/c6/18/76/c618762842519df2aa6785a398a9e72a.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/18/18a0ca41417aa28a7636fb58d91fa7897d09300e26da0a5bd5054a84e9a73495.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/47/479b9bbaa0784e90e597fa5537c9bbe7ba5138fdfcfae80c4f81a42c9fb51134.png"
+    },
+    {
+      "id": "canter-semen-03",
+      "title": "Canter Semen 03",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/79/d3/41/79d341a8b9207288241beeb81ecfb3bb.jpg",
+      "download": "https://storage.shpee.my.id/bussid/blobs/18/18a0ca41417aa28a7636fb58d91fa7897d09300e26da0a5bd5054a84e9a73495.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/b4/b4ccf5b002f232eb8c0142d3b198313a57be685225d3b9ac1180dcdb0cfaaabd.png"
+    },
+    {
+      "id": "canter-gayor",
+      "title": "Canter Gayor",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/ab/be/4b/abbe4b8829a6cdc1fd9fa492ba87998c.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/7d/7dd49dec3ff64695ae9b3f703bb2abb835023b48a308e59af699824f31bec645.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/78/78b9a3328cb1c2c5c29d18dd0056340963419cb5a708056a5f7ee191bf1a96b5.png"
+    },
+    {
+      "id": "canter-sound-brewog",
+      "title": "Canter Sound Brewog",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/82/f7/33/82f7332133b38cc6c7446a99a118c1b8.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/40/40ee849fd6955a57c4883dcbf68b32422f032e6b50b0bf1f73b13518aa40991a.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/b9/b99275e45494b071a2b479b93dd23d6d3779b0e2d267e9b11f634016f012bce7.png"
+    },
+    {
+      "id": "bandar-beras-canter-costum-15-by-budesign",
+      "title": "Bandar Beras Canter Costum 15 by Budesign",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/30/c7/f3/30c7f3e74efd1aa27e5abb579a8f5cb1.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/e6/e635fb238fdc987479d3c421f8fd8f871c28d6a762b61ee34db4856412605068.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/a4/a46dca0eb69adc5789c7e709a2a0aa963a2cdb2c41256dda12ff78e02ea01929.png"
+    },
+    {
+      "id": "fortuna-abadi-canter-costum-15-by-budesign",
+      "title": "Fortuna Abadi Canter Costum 15 by Budesign",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/1c/99/47/1c99476b3bf10d8c45466af5ebb96e63.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/e6/e635fb238fdc987479d3c421f8fd8f871c28d6a762b61ee34db4856412605068.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/eb/eb78d948d4c755dc01b1626a58ec27c650d82fc823519e32d29c1e4a90f22765.png"
+    },
+    {
+      "id": "rebecca-canter-costum-15-by-budesign",
+      "title": "Rebecca Canter Costum 15 by Budesign",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/f2/c0/bb/f2c0bb95110f764df2d3601c01a5a36c.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/e6/e635fb238fdc987479d3c421f8fd8f871c28d6a762b61ee34db4856412605068.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/b0/b019d011f18d6fc35c4d61f7040987c12d59d7f6cc8dc851abab0cea806e9d57.png"
+    },
+    {
+      "id": "bandar-bibit-canter-costum-15-by-budesign",
+      "title": "Bandar Bibit Canter Costum 15 by Budesign",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/7f/8a/63/7f8a63f414fc122bc705e6d58320aa06.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/e6/e635fb238fdc987479d3c421f8fd8f871c28d6a762b61ee34db4856412605068.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/bd/bd9ac5e653e8cfe26f068ab683457829f4647eb9ad1ddee1b6723635263ca086.png"
+    },
+    {
+      "id": "rondo-galak-canter-costum-15-by-budesign",
+      "title": "Rondo Galak Canter Costum 15 by Budesign",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/97/1a/b3/971ab322f33e9e06880eb576151c2f85.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/e6/e635fb238fdc987479d3c421f8fd8f871c28d6a762b61ee34db4856412605068.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/4d/4d55743cc2a6beaba251b4a7c3474584203035da4cb9777a94b445982d655378.png"
+    },
+    {
+      "id": "canter-costum-14-kuning-by-budesign",
+      "title": "Canter Costum 14 Kuning by Budesign",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/fd/2f/d7/fd2fd772f57d2a3a1af0bba9cba091d7.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/1f/1f2b8a8e1761e862928c77c1ff969699c10ac2c53825371bdd8c8c77eda31eda.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/8b/8bab58bf3d21c5323d88cc12abd576177c4e30c982822de109a45c6063bbf5c6.png"
+    },
+    {
+      "id": "canter-costum-14-biru-by-budesign",
+      "title": "Canter Costum 14 Biru by Budesign",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/a7/68/9f/a7689fd346ddd4e8e7b080401ac1f058.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/1f/1f2b8a8e1761e862928c77c1ff969699c10ac2c53825371bdd8c8c77eda31eda.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/17/178073d8bdba63074c391e181e404722ae2fb8bba2e04ff4008fc74246991250.png"
+    },
+    {
+      "id": "canter-costum-14-merah-by-budesign",
+      "title": "Canter Costum 14 Merah by Budesign",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/36/17/af/3617afab0f32ad300c89f02f6b02de4c.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/1f/1f2b8a8e1761e862928c77c1ff969699c10ac2c53825371bdd8c8c77eda31eda.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/8e/8e09d0f05d72549f6d0ceed6a1f8f76123b6573e39079fb501f8c4c32cc3fa26.png"
+    },
+    {
+      "id": "canter-costum-14-orange-by-budesign",
+      "title": "Canter Costum 14 Orange by Budesign",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/6b/48/8d/6b488d13ade8d36ddbbe48f5cfa2cf37.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/1f/1f2b8a8e1761e862928c77c1ff969699c10ac2c53825371bdd8c8c77eda31eda.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/6b/6bddba68322dd60024f127c79efcb7a55a99aa8b404b49b7195225942bb423fd.png"
+    },
+    {
+      "id": "j-t-canter-by-budesign",
+      "title": "J & T Canter by Budesign",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/93/ae/cc/93aecce767da4da3342a0428d2fef26a.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/59/59cb5cf04c9688d64dcf4cf6aa1115070a7c76de7795642605d37ae1d4cfba73.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/15/15fc4a23d4bcffb9c66e11327b9a4f6c89c88588807bcc78675ece4b60d0ae6a.png"
+    },
+    {
+      "id": "canter-sang-raja-by-ndr",
+      "title": "Canter sang Raja by NDR",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i.pinimg.com/736x/59/39/a9/5939a9fe863cd10b53de85d7dac86a5a.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/39/3938f8c14273dd2116367ead9c23ac7f6d333297ea09537e38a5acd2ca11e630.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/b8/b895b5f6bbb327ed51090638542c62a13dedb3dd5199a1ef52364029db19660b.png"
+    },
+    {
+      "id": "truck-canter-madura-express",
+      "title": "Truck Canter Madura Express",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/10/MOD-BUSSID-Truck-Canter-Madura-Express-by-Budesign.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/91/91d40ce0e54be17335e7b1b453dec782068868476d7e29527f8dfcc8102dc84c.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/3a/3aecc7eff78f4e43ddd3dca9164e4d233514dc36a56f676032e0d3af33c563b4.png"
+    },
+    {
+      "id": "truck-canter-ayam-immanuel",
+      "title": "Truck Canter Ayam Immanuel",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/10/MOD-BUSSID-Truck-Canter-Ayam-Immanuel-by-Budesign.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/3c/3c9aa0b5b603bb36a937fc2e92f6be423f76872125365005918d21c0a87bb5a3.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/e0/e0831588cfc4000152d92999ff335e7e748f9ca80ee4117bf960a0f7d1c7ce4e.png"
+    },
+    {
+      "id": "truck-canter-sanjaya",
+      "title": "Truck Canter Sanjaya",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/10/MOD-BUSSID-Truck-Canter-Sanjaya-by-Budesign.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/5b/5ba098212e9836de7fae98ac8a31b1921b147459aa9a9f846d8ab61e798af6c9.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/29/2958dacd05c10f29e316a44271dee86b4de9ca1468519266d1dc8507c10c92ca.png"
+    },
+    {
+      "id": "truck-canter-boss-meok-negeri-jagung",
+      "title": "Truck Canter Boss Meok Negeri Jagung",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/10/MOD-BUSSID-Truck-Canter-Boss-Meok-Negeri-Jagung-by-Budesign.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/fb/fbaccb6ee742f6035eed95d51590cc8d056ad60974e0c38e96a2e6828060da5e.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/55/5524583f523b198d93cd7b611bf347cc0ca7286f86a2e2e9017fa7a01595edf1.png"
+    },
+    {
+      "id": "truck-box-canter-mbois-jne",
+      "title": "Truck Box Canter Mbois JNE",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2467.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/7a/7a604214d2c166e88f7f1d4a4cae3357672284a8d008c011bee77f79b192beb3.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/f4/f4a827d8b2ad48d60d990d86d93d858154e429c04ff3910cf67a4983a09dfd4d.png"
+    },
+    {
+      "id": "truck-canter-dump-muat-pasir",
+      "title": "Truck Canter Dump Muat Pasir",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2441.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/70/70446455f7f5cdfc3f3b40b1f6b9ea17b15fab89c5aaf0dcc860f2c9a2f9dcec.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/91/91f18836009db9a90c91819edcdf8b0666c80f180980fe408d391ce5791cd12f.png"
+    },
+    {
+      "id": "truk-canter-polisi",
+      "title": "Truk Canter Polisi",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/07/708.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/2c/2c67b10792b0aa04023856fbaa94a9b8fb5e65b42bab59aeb147d74171f58b09.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/8a/8aedbb772493e7e3c5f5115703926dd7ab53fd7bae53fcbf85f905c3b23505ff.png"
+    },
+    {
+      "id": "truk-canter-polisi-tanpa-penutup",
+      "title": "Truk Canter Polisi Tanpa Penutup",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/07/712.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/45/45cf68e2274e1a1e2625fccbb1aca96832b5f60600997a2212f2c680bb711600.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/8a/8aedbb772493e7e3c5f5115703926dd7ab53fd7bae53fcbf85f905c3b23505ff.png"
+    },
+    {
+      "id": "truk-canter-polisi-setengah-penutup",
+      "title": "Truk Canter Polisi Setengah Penutup",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/07/709-1.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/2c/2c072dd4cd028d054c8744a6c071b7544a2fea5bd2fe7a06ae963bcc8dedcb90.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/8a/8aedbb772493e7e3c5f5115703926dd7ab53fd7bae53fcbf85f905c3b23505ff.png"
+    },
+    {
+      "id": "truck-canter-black-team-fauzi-ardant",
+      "title": "Truck Canter Black Team Fauzi Ardant",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/10/MOD-BUSSID-Truck-Canter-Black-Team-Fauzi-Ardant-by-Budesign.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/d7/d7bc5eaa3c30d324627aad2a81d8149fd95efaf31c26779c7bcf95203b985055.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/9c/9cb1d4b8e5cccaab4f5be888ec8db1aecd5e8be3468194b3ed2d61daf9df5793.png"
+    },
+    {
+      "id": "truck-canter-nmr-jsk-concept-star-light",
+      "title": "Truck Canter NMR JSK Concept Star Light",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-NMR-JSK-Concept-Star-Light.jpeg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/e9/e9278455e6ba0e9051901fb77a1aaaa2cecf0c488a48673b13189cd6b6eff268.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/16/16fce6769078093e599585b23d2042ee4a18b1f13a7b3532f2be172864d95e1d.png"
+    },
+    {
+      "id": "truck-canter-giga-restu-bunda",
+      "title": "Truck Canter Giga Restu Bunda",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Giga-Restu-Bunda.jpeg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/b9/b94adc1d14ae6f9b8de29da45540bc605e6beebc362a6510794a51ed4a103c3a.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/f0/f09d73772348bd83e5a49cb2cb6b83be4cc6d396098bc8420896932c3cb39969.png"
+    },
+    {
+      "id": "truck-canter-sujama-malika",
+      "title": "Truck Canter Sujama Malika",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Sujama-Malika.jpeg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/4e/4ef1049910ecef82f8b1ad538fed612eeb87bb2fbe15b6d8280d82cd31c35d1a.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/19/19d406a879412ffd7e3252bc0b3d2d278e7de4c95be79c173512b5ca2300cf1c.png"
+    },
+    {
+      "id": "truck-canter-republik-gabah",
+      "title": "Truck Canter Republik Gabah",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Republik-Gabah.jpeg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/7a/7a36886033ec5aa0e8cffe4b3b43419f5337dab272b1c4364f7f0b1974954c10.zip",
+      "livery": "https://storage.shpee.my.id/bussid/blobs/a6/a67ea516b3e3915b0ae36f5e74a51e7dd49c36a373f3c8d72d687525706043a7.png"
+    },
+    {
+      "id": "truck-canter-public-figure",
+      "title": "Truck Canter Public Figure",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Public-Figure.jpeg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/74/74bfb2ec36f32e19bfb85e7ed5dd2e9606c6b3fe0a21fb35ba7f7fff2bfdedaa.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/90/9021e11b67271d131f76272595db790e2d03412dc20d251178d082c6aac2191c.png"
+    },
+    {
+      "id": "truck-canter-010-full-box-mbois",
+      "title": "Truck Canter 010 Full Box Mbois",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-010-Full-Box-Mbois.jpeg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/48/4877fad59afe6b01a9ae077c5ef248c0f37c8f04cd2342dfc396aa1e4fb40062.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/68/68d132b5b3fc2ee0451e182f33f8d516cde722aa795b1303d96e71eb467978af.png"
+    },
+    {
+      "id": "truck-canter-ayam-bodykit-samudra-nusantara",
+      "title": "Truck Canter Ayam Bodykit Samudra Nusantara",
+      "category": "Truk",
+      "category_id": "truk",
+      "image": "https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Truck-Canter-Ayam-Bodykit-Samudra-Nusantara.jpg",
+      "download": "https://storage.bussidku.my.id/bussid/blobs/a1/a1f13171c06f4f02431c12b7b984111732fd4d83ed239985a4bcf6a0635ccac0.zip",
+      "livery": "https://storage.bussidku.my.id/bussid/blobs/83/834cf5905db9dcb61cfa956e17e3825bbbdc4bde84fc17b7beb621784bcb985c.png"
+    }
+  ]
+}
