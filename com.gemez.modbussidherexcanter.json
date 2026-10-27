@@ -2,11 +2,276 @@
   "schema": 2,
   "catalog_overlay": {
     "url": "https://gemezinfahrul.github.io/config/com.gemez.modbussidherexcanter-overlay.json",
-    "seq": 3
+    "seq": 4
+  },
+  "storage": {
+    "folders": [
+      {
+        "id": "bussid",
+        "label": "BUSSID",
+        "folder": "Documents/BUSSID/Mods",
+        "legacy_folder": "BUSSID/Mods"
+      },
+      {
+        "id": "bussin",
+        "label": "BUSSIN",
+        "folder": "Documents/BUSSIN/Mods",
+        "legacy_folder": "BUSSIN/Mods"
+      }
+    ],
+    "ask_on_download": true,
+    "extensions": [
+      ".bussidmod",
+      ".bussidvehicle",
+      ".bussidlivery"
+    ],
+    "livery_folder": "Download"
+  },
+  "theme": {
+    "preset": "graphite",
+    "font": "inter",
+    "toolbar": {
+      "home": {
+        "background": {
+          "light": "",
+          "dark": ""
+        },
+        "scrolled_background": {
+          "light": "",
+          "dark": ""
+        },
+        "foreground": {
+          "light": "",
+          "dark": ""
+        },
+        "scrolled_foreground": {
+          "light": "",
+          "dark": ""
+        }
+      },
+      "pages": {
+        "background": {
+          "light": "",
+          "dark": ""
+        },
+        "scrolled_background": {
+          "light": "",
+          "dark": ""
+        },
+        "foreground": {
+          "light": "",
+          "dark": ""
+        },
+        "scrolled_foreground": {
+          "light": "",
+          "dark": ""
+        }
+      }
+    },
+    "bottom_nav": {
+      "background": {
+        "light": "",
+        "dark": ""
+      },
+      "item": {
+        "light": "",
+        "dark": ""
+      },
+      "item_active": {
+        "light": "",
+        "dark": ""
+      },
+      "indicator": {
+        "light": "",
+        "dark": ""
+      }
+    },
+    "card": {
+      "corner": "medium",
+      "border": "outline",
+      "meta": "category"
+    }
+  },
+  "layout": {
+    "style": "list",
+    "spotlight": true,
+    "spotlight_limit": 5,
+    "categories": false,
+    "sections": [
+      "search",
+      "spotlight",
+      "mods"
+    ]
+  },
+  "categories_page": {
+    "style": "list",
+    "columns": 2,
+    "columns_tablet": 3,
+    "image_ratio": "16:9",
+    "items": [
+      {
+        "name": "Truk",
+        "image": "",
+        "art": "truck"
+      },
+      {
+        "name": "Mobil",
+        "image": "",
+        "art": "car"
+      }
+    ]
   },
   "links": {
     "privacy_policy": "https://gemezdev.blogspot.com/p/privacy-policy.html",
     "more_apps": "https://play.google.com/store/apps/developer?id=Gemezin",
     "share_text": ""
+  },
+  "navigation": {
+    "items": [
+      {
+        "id": "home",
+        "place": "bottom",
+        "label": ""
+      },
+      {
+        "id": "categories",
+        "place": "bottom",
+        "label": ""
+      },
+      {
+        "id": "favorites",
+        "place": "bottom",
+        "label": ""
+      },
+      {
+        "id": "guide",
+        "place": "bottom",
+        "label": ""
+      },
+      {
+        "id": "more",
+        "place": "bottom",
+        "label": ""
+      },
+      {
+        "id": "theme",
+        "place": "toolbar",
+        "label": ""
+      },
+      {
+        "id": "saved",
+        "place": "menu",
+        "label": ""
+      },
+      {
+        "id": "storage",
+        "place": "menu",
+        "label": ""
+      },
+      {
+        "id": "about",
+        "place": "menu",
+        "label": ""
+      },
+      {
+        "id": "search",
+        "place": "hidden",
+        "label": ""
+      }
+    ],
+    "transition": "shared_axis_x",
+    "enable_bottom_nav": true
+  },
+  "onboarding": {
+    "enabled": true,
+    "show_once": true,
+    "version": 1,
+    "skippable": true,
+    "ask_notifications": true,
+    "labels": {
+      "skip": "",
+      "next": "",
+      "start": ""
+    },
+    "pages": [
+      {
+        "image": "onboarding/onboarding-1.webp",
+        "art": "bus",
+        "title": "Koleksi Canter Herex Style",
+        "description": "Mod truk Canter bergaya Herex dan livery pilihan, lengkap dengan gambar pratinjau."
+      },
+      {
+        "image": "onboarding/onboarding-2.webp",
+        "art": "truck",
+        "title": "Simpan langsung ke folder game",
+        "description": "Mod tersimpan di folder game pilihanmu dan livery masuk folder Download, jadi tidak perlu memindahkan berkas sendiri."
+      },
+      {
+        "image": "onboarding/onboarding-3.webp",
+        "art": "livery",
+        "title": "Tandai favoritmu",
+        "description": "Simpan mod yang kamu suka dan buka lagi kapan saja dari menu Favorit."
+      }
+    ]
+  },
+  "app_review": {
+    "enabled": true,
+    "on_splash": true,
+    "splash_min_launches": 1,
+    "on_home": true,
+    "home_min_launches": 2,
+    "after_download": true,
+    "after_downloads": 1,
+    "on_exit": true,
+    "remind_after_hours": 24,
+    "title": "",
+    "message": "",
+    "labels": {
+      "rate": "",
+      "later": "",
+      "exit": ""
+    }
+  },
+  "app_update": {
+    "enabled": true,
+    "mode": "flexible"
+  },
+  "notifications": {
+    "enabled": true,
+    "hours": [
+      19
+    ],
+    "skip_if_opened_today": true,
+    "new_mods": true,
+    "daily_pick": true
+  },
+  "network": {
+    "enabled": true,
+    "dismissible": true,
+    "image": "",
+    "title": "",
+    "description": "",
+    "labels": {
+      "settings": "",
+      "close": ""
+    }
+  },
+  "welcome": {
+    "image": "",
+    "show_name": true,
+    "show_progress": true,
+    "show_version": true,
+    "background": {
+      "light": "",
+      "dark": ""
+    },
+    "style": "brand"
+  },
+  "guide": {
+    "steps": [],
+    "notes": []
+  },
+  "detail": {
+    "info": true
   }
 }
