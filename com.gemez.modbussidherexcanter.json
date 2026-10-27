@@ -1,7 +1,7 @@
 {
   "bootstrap": {
     "url": "https://gemezinfahrul.github.io/config/com.gemez.modbussidherexcanter.json",
-    "refresh_minutes": 60
+    "refresh_minutes": 1
   },
   "catalog_overlay": {
     "url": "https://gemezinfahrul.github.io/config/com.gemez.modbussidherexcanter-overlay.json",
