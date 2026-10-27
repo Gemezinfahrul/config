@@ -1,8 +1,13 @@
 {
-  "schema": 2,
+  "bootstrap": {
+    "url": "https://gemezinfahrul.github.io/config/com.gemez.modbussidherexcanter.json",
+    "refresh_minutes": 60
+  },
   "catalog_overlay": {
     "url": "https://gemezinfahrul.github.io/config/com.gemez.modbussidherexcanter-overlay.json",
-    "seq": 4
+    "seq": 0,
+    "items": true,
+    "hosts": []
   },
   "storage": {
     "folders": [
@@ -271,6 +276,68 @@
     "steps": [],
     "notes": []
   },
+  "Ads": [
+    {
+      "enable_ads": true,
+      "enable_inter": true,
+      "enable_open": true,
+      "enable_reward": true,
+      "enable_banner": true,
+      "enable_native": true,
+      "enable_banner_bottom_nav": false,
+      "enable_banner_home": false,
+      "enable_banner_categories": true,
+      "enable_banner_category": true,
+      "enable_banner_search": true,
+      "enable_banner_favorites": true,
+      "enable_banner_saved": true,
+      "enable_banner_guide": true,
+      "enable_banner_about": true,
+      "enable_banner_more": true,
+      "inter_main": "ca-app-pub-3940256099942544/1033173712",
+      "open_main": "ca-app-pub-3940256099942544/9257395921",
+      "reward_main": "ca-app-pub-3940256099942544/5224354917",
+      "banner_main": "ca-app-pub-3940256099942544/9214589741",
+      "native_main": "ca-app-pub-3940256099942544/2247696110",
+      "admob_share": 100,
+      "backup_enabled": true,
+      "rotation": "session",
+      "rotation_minutes": 60,
+      "session_timeout_minutes": 30,
+      "networks": [
+        "admob",
+        "applovin"
+      ],
+      "inter_applovin": "",
+      "reward_applovin": "",
+      "open_on_start": true,
+      "open_timeout_seconds": 5,
+      "reward_required": true,
+      "interval_interstitial": 2,
+      "inter_triggers": [
+        "item_click",
+        "navigation"
+      ],
+      "interval_native": 6,
+      "native_style": "small",
+      "native_style_list": "small",
+      "native_style_detail": "medium",
+      "native_style_onboarding": "medium",
+      "cooldown_seconds": 0,
+      "click_cap": 3,
+      "click_window_minutes": 30,
+      "child_directed": false,
+      "child_direct_gdpr": false,
+      "test_device_ids": [],
+      "applovin_sdk_key": "lrgbcMt9wpc_7r0F3LaghKmz60XdAbSl5BldFHWR2mFFEXtgyMHUVFUZ8T646wAuhVAXlJi8CKR5CMF3sop-Ty",
+      "networks_reward": [
+        "admob"
+      ],
+      "networks_inter": [
+        "admob"
+      ]
+    }
+  ],
   "detail": {
     "info": true
   }
