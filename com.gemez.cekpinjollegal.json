@@ -1,0 +1,117 @@
+{
+  "apps": [
+    {
+      "privacy_policy_url": "",
+      "email_feedback_and_report": "youremail@gmail.com",
+      "more_apps_url": "",
+      "webview_cache": true,
+      "webview_plain_param": "polos=1",
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": false,
+      "show_post_detail_category": true,
+      "show_related_posts": false,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_dark_mode_as_default_theme": false,
+      "enable_bookmark": true,
+      "enable_reading_history": true,
+      "enable_search": true,
+      "enable_text_size_setting": true
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": true,
+      "main_ad": "admob",
+      "backup_ad": "applovin_max",
+      "applovin_sdk_key": "",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "admob_rewarded_unit_id": "ca-app-pub-3940256099942544/5224354917",
+      "ad_manager_banner_unit_id": "/21775744923/example/adaptive-banner",
+      "ad_manager_interstitial_unit_id": "/21775744923/example/interstitial",
+      "ad_manager_native_unit_id": "/21775744923/example/native",
+      "ad_manager_app_open_unit_id": "/21775744923/example/app-open",
+      "ad_manager_rewarded_unit_id": "/21775744923/example/rewarded",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_rewarded_unit_id": "0",
+      "interstitial_ad_interval": 2,
+      "interstitial_intervalc": 1,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_interstitial_ad_after_onboarding": false,
+      "rewarded_open_on_failure": true,
+      "show_banner_ad_home": true,
+      "show_banner_ad_category_list": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_banner_ad_saved": true,
+      "show_banner_ad_post_details": true,
+      "native_ad_index": 7,
+      "native_ad_interval": 10,
+      "native_ad_style_post_list": "medium",
+      "native_ad_style_post_details": "large",
+      "native_ad_post_details_position": "bottom",
+      "native_ad_style_exit_dialog": "small",
+      "show_native_ad_post_list": false,
+      "show_native_ad_post_details": false,
+      "show_native_ad_exit_dialog": true,
+      "show_native_ad_onboarding": true,
+      "show_native_ad_onboarding_full": true,
+      "native_ad_onboarding_interval": 2,
+      "native_ad_onboarding_full_max": 0,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true,
+      "open_ad_splash_timeout_seconds": 4,
+      "open_ad_resume_min_background_seconds": 0,
+      "open_ad_resume_interval_seconds": 0,
+      "open_ad_resume_max_per_session": 0
+    }
+  ],
+  "theme": [
+    {
+      "palette": "biru",
+      "brand_name": "BaseGuide",
+      "brand_initial": "B",
+      "brand_tagline": "Panduan dompet digital & paylater",
+      "font_family": "custom",
+      "corner_style": "rounded",
+      "page_transition": "fade_forwards",
+      "home_sections": [
+        "search",
+        "categories",
+        "highlight",
+        "tools",
+        "latest"
+      ],
+      "tools_category": "Tools"
+    }
+  ],
+  "reminder": [
+    {
+      "enabled": true,
+      "skip_if_opened_today": false,
+      "show_picture": true,
+      "channel_name": "Pengingat panduan",
+      "items": [
+        {
+          "hour": 9,
+          "title": "Panduan pilihan hari ini",
+          "text": "{title} - langkah ringkas yang mudah diikuti."
+        },
+        {
+          "hour": 19,
+          "title": "Waktunya baca sebentar",
+          "text": "Pelajari {category} lewat panduan singkat di {app}."
+        }
+      ]
+    }
+  ]
+}
