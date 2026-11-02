@@ -113,5 +113,27 @@
         }
       ]
     }
+  ],
+  "onboarding": [
+    {
+      "enabled": true,
+      "pages": [
+        {
+          "title": "Selamat datang di BaseGuide",
+          "body": "Kumpulan panduan dompet digital dan paylater yang ringkas dan mudah diikuti.",
+          "image_url": ""
+        },
+        {
+          "title": "Panduan langkah demi langkah",
+          "body": "Setiap panduan disusun berurutan, dari syarat sampai cara mengaktifkan fitur.",
+          "image_url": ""
+        },
+        {
+          "title": "Simpan dan cari panduan",
+          "body": "Tandai panduan penting dan temukan lagi lewat pencarian kapan pun kamu butuh.",
+          "image_url": ""
+        }
+      ]
+    }
   ]
 }
