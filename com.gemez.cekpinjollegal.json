@@ -86,9 +86,8 @@
       "page_transition": "fade_forwards",
       "home_sections": [
         "search",
-        "categories",
         "highlight",
-        "tools",
+        "categories",
         "latest"
       ],
       "tools_category": "Tools"
