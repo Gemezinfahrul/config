@@ -23,10 +23,10 @@
   ],
   "ads": [
     {
-      "ad_status": false,
+      "ad_status": true,
       "main_ad": "admob",
       "backup_ad": "applovin_max",
-      "applovin_sdk_key": "lrgbcMt9wpc_7r0F3LaghKmz60XdAbSl5BldFHWR2mFFEXtgyMHUVFUZ8T646wAuhVAXlJi8CKR5CMF3sop-Ty",
+      "applovin_sdk_key": "",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
@@ -77,7 +77,7 @@
   ],
   "theme": [
     {
-      "palette": "teal",
+      "palette": "merek",
       "brand_name": "Cara Aktifkan Dana Pinjam",
       "brand_initial": "C",
       "brand_tagline": "Panduan tidak resmi seputar DANA Cicil",
@@ -116,6 +116,9 @@
   "onboarding": [
     {
       "enabled": true,
+      "disclaimer_title": "Sebelum mulai",
+      "disclaimer_body": "{app} adalah panduan tidak resmi dan tidak berafiliasi dengan DANA maupun PT Espay Debit Indonesia Koe. Kami tidak memberi pinjaman dan tidak pernah meminta PIN, OTP, atau data keuangan Anda.",
+      "disclaimer_image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKubNOIJeGIJ8Aje2w6r2EczN1vy436vgeLVgImZP3zf43Ad0jvNA7rDMppCFuOCg0BY1km-dws2mXIno6o9DAvHFNVeYMW_VoVj43XOnaA-y-tjcES5x5GyBkaQhQaw4lw3YCb_jCmlxTfgL5XLvv8XikHBWMIai7hR3EEkVxnhiXXl9zAaRvee3rxQs/s1600/d16-hak-kewajiban-pengguna-dana-cicil.png",
       "pages": [
         {
           "title": "Kenali fitur yang sebenarnya",
