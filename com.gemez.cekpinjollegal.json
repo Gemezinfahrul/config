@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "privacy_policy_url": "",
-      "email_feedback_and_report": "youremail@gmail.com",
+      "privacy_policy_url": "https://gemezdev.blogspot.com/p/privacy-policy.html",
+      "email_feedback_and_report": "fahrul.sinarmas@gmail.com",
       "more_apps_url": "",
       "webview_cache": true,
       "webview_plain_param": "polos=1",
