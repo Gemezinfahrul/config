@@ -1,361 +1,306 @@
 {
   "categories": [
     {
-      "id": 1,
-      "name": "Dana",
-      "image": "https://i.pinimg.com/736x/5b/46/f9/5b46f977596bf95797e542bc6ffbfb9a.jpg"
+      "name": "Aktivasi Fitur",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4NomaAhVAOG3l1xVfr77EW5HrNvRljsKDc_QODxhJ5Fa_d4V0bBfS0sEBlsGJiweFYdlGF59xKrFZd-iQTDqtoYaEDIh7_4mbcYhxwH9rt3z659Y2-hweZE-Q83sylg3ozPStsW1YkaUfPbYvwpIWGwBuQGqZ70YTRh6RfDzYmv1RH6z7gH0jeGWepHY/s1600/d01-apa-itu-dana-pinjam-di-aplikasi-dana.png"
     },
     {
-      "id": 2,
-      "name": "Ovo",
-      "image": "https://i.pinimg.com/736x/36/87/78/36877833feec9d65a0c636b92f025f5b.jpg"
+      "name": "Keamanan Akun",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiflHoTKFFMt2lzx9_La4c4UXsfvbdmf3Smv2mn1nSgioGzTRyzdoZlcuf7J_Hzj8PeyHETcE4fp98VB08M_xMOvAuWNIn_TidG7tGiVgvPxgnRtEOfUqLR3hhYQPwTY1eax3rX6ijuStNYItSe1cAcN89JJumnFoWifv4GlCz6Z7yzITO84V9RUsF9ID4/s1600/d08-jangan-berikan-pin-otp-dana.png"
     },
     {
-      "id": 3,
-      "name": "Gopay",
-      "image": "https://i.pinimg.com/736x/cf/1b/4c/cf1b4c66e1a737ec803c390747da9143.jpg"
+      "name": "Waspada Penipuan",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhenaWttlJx3ifDUfxwVBLRKqz7oQFNgJaiHezNRU_m0y7OadHUSXfC67mVTiYaHlZGO5r3N37GjEJba0YsIs2I6dZjNe-KXQfshvt5iXncsFXtAzGKzPYMJ_oXi6bAelnxfCCUz834WKcB7R9usuZqngSZCGLD_UmsAWpxn1xioyvQBB4dDEimREXufFw/s1600/d11-hoaks-tautan-aktivasi-pinjaman-dana.png"
     },
     {
-      "id": 4,
-      "name": "Shopee",
-      "image": "https://i.pinimg.com/736x/18/36/17/1836179a7e3f21405815a84dbb679e6f.jpg"
+      "name": "Biaya dan Hak",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUTHrHKt-_s5goe4R4AAwY8hxCqocg0aaEvyrpdTA5BoHdeslyuCjgOwrhRdTqpkstK4cqXr09MA7a9oTB2uQ8Zae4RCXFN1XOJZ_mTwbn_VrKNJAJheUhGL9XddpdZfWgW7YKpN3FgKtRd-JARkafyaZYd2LJPewQ_qvh42lDMjSJgd2uXcOh7LVnnaY/s1600/d14-bunga-denda-biaya-dana-cicil.png"
     },
     {
-      "id": 5,
-      "name": "Linkaja",
-      "image": "https://i.pinimg.com/736x/92/e1/fd/92e1fd65f63a6b07b3a71907509af924.jpg"
-    },
-    {
-      "id": 6,
       "name": "Tools",
-      "image": "https://i.pinimg.com/736x/82/6c/95/826c95e77e1b174d0d241c2a72ab0420.jpg"
-    },
-    {
-      "id": 7,
-      "name": "Tips & Trick",
-      "image": "https://i.pinimg.com/736x/07/d0/21/07d021276cf0a58f6b38f2e3028f61e2.jpg"
+      "image": "https://gemezinfahrul.github.io/guidetools/sampul/cek-pindar.webp"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "Tools, Tips & Trick",
-      "title": "Daftar Layanan Keuangan Terdaftar",
-      "image": "https://i.pinimg.com/736x/81/0d/91/810d91c95d1159c71a7cb89bca768ac3.jpg",
-      "content": "https://arobdev.my.id/checker.html?rewarded",
-      "video": ""
-    },
-    {
-      "id": 5,
-      "category": "Tools",
-      "title": "Kalkulator Simulasi",
-      "image": "https://i.pinimg.com/736x/62/28/4a/62284afd8ff56f2620f711d03310b6cb.jpg",
-      "content": "https://arobdev.my.id/kalkulatorpinjolmobile.html",
-      "video": ""
-    },
-    {
-      "id": 5,
-      "category": "Tools",
-      "title": "Checklist Kelayakan Pengajuan",
-      "image": "https://i.pinimg.com/736x/02/8a/35/028a359932a376cb77deb920034a90ef.jpg",
-      "content": "https://arobdev.my.id/kelayakan.html",
-      "video": ""
-    },
-    {
-      "id": 5,
-      "category": "Tools",
-      "title": "Budget Planner - Rasio Cicilan",
-      "image": "https://i.pinimg.com/736x/66/c0/01/66c001ec52d57a2720a425ba84d3f167.jpg",
-      "content": "https://arobdev.my.id/budgetplaner.html",
-      "video": ""
-    },
-    {
-      "id": 5,
-      "category": "Tools",
-      "title": "Glosarium Istilah + Bookmark",
-      "image": "https://i.pinimg.com/736x/f5/7c/0f/f57c0f33af2c6e824a3e4b170319890e.jpg",
-      "content": "https://arobdev.my.id/istilah.html",
-      "video": ""
-    },
-    {
-      "id": 1,
-      "category": "Dana, Tips & Trick",
-      "title": "Apa Itu Dana Instan ?",
-      "image": "https://i.pinimg.com/736x/42/a5/f4/42a5f439f208d2429911d6a99472da5e.jpg",
-      "content": "https://prmptphoto.blogspot.com/2025/12/apa-itu-dana-instan.html",
-      "video": ""
+      "category": "Aktivasi Fitur",
+      "title": "Apa Itu \"Dana Pinjam\"? Mengenal Nama Fitur yang Sebenarnya di Aplikasi DANA",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4NomaAhVAOG3l1xVfr77EW5HrNvRljsKDc_QODxhJ5Fa_d4V0bBfS0sEBlsGJiweFYdlGF59xKrFZd-iQTDqtoYaEDIh7_4mbcYhxwH9rt3z659Y2-hweZE-Q83sylg3ozPStsW1YkaUfPbYvwpIWGwBuQGqZ70YTRh6RfDzYmv1RH6z7gH0jeGWepHY/s1600/d01-apa-itu-dana-pinjam-di-aplikasi-dana.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/blog-post.html"
     },
     {
       "id": 2,
-      "category": "Dana, Lifestyle",
-      "title": "Syarat Dana Instan Muncul",
-      "image": "https://i.pinimg.com/736x/12/89/85/1289858ab67fa16262b030318cc8c5fe.jpg",
-      "content": "https://prmptphoto.blogspot.com/2025/12/syarat-dana-instan-muncul.html",
-      "video": ""
+      "category": "Aktivasi Fitur",
+      "title": "Syarat Mendapatkan Akses DANA Cicil Menurut Penjelasan DANA",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibjbW957BDi1rquEukQJ8zu2FCjxVO72A08GyQEU0wPGDFA_2n95X4GntB3wa27aOUN2G78F2LRPhdlakeGB5_vMqRLqf62Si3plfMzPn6sMxcJx1hNyN-RO7UmpEsdHZZ-1hOROFMEWlgyjqk6-zHuBYbFGa0uGBsDK66ddz0BzbPH09u_CxJqW0rgcQ/s1600/d02-syarat-akses-dana-cicil.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/syarat-akses-dana-cicil.html"
     },
     {
       "id": 3,
-      "category": "Dana, Apps",
-      "title": "Cara Mengaktifkan Dana Instan",
-      "image": "https://i.pinimg.com/736x/8d/cc/6a/8dcc6abea5752ba1fdeaedc85ea93462.jpg",
-      "content": "https://prmptphoto.blogspot.com/2025/12/cara-mengaktifkan-dana-instan.html?rewarded",
-      "video": ""
+      "category": "Aktivasi Fitur",
+      "title": "Cara Upgrade Akun DANA ke DANA Premium dengan Aman",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2eA-T3KWqUQ-4pLdeP_BFoWgg0xy60AB322iH1DSJ_kyNsyxjMAB50JbeH7hnGYw_px9CjrRvHcfXDYZR6MAnSapPpsHEohleJsYv9cTzNC9WltOPO5xg10w_TlHQx3pDYuvey6BrCqjVXiag-hzfNG4_vuonI6P51a4wIOjxIfAP9fz33zxvejr5gn4/s1600/d03-cara-upgrade-akun-dana-premium.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/cara-upgrade-akun-dana-premium.html"
     },
     {
       "id": 4,
-      "category": "Dana",
-      "title": "Penyebab Dana Instan Tidak Muncul",
-      "image": "https://i.pinimg.com/736x/56/41/07/56410747084e4a7eb72219bfca33c8fa.jpg",
-      "content": "https://prmptphoto.blogspot.com/2025/12/penyebab-dana-instan-tidak-muncul.html?rewarded",
-      "video": ""
+      "category": "Aktivasi Fitur",
+      "title": "Cara Mengajukan Akses DANA Cicil lewat DIANA di Aplikasi DANA",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWDQEIt5PXK1LOsUNz_nhb_iooymp4Oh085ZyNKEgF5uBte4huPE65VTWOXICKNcgj_fYixi5azrOBJNRAM7R2ucJGTAo553SzuDxmU7uSNaEWxrznyvEXHKmQjtitpEQfou1LSEmex9niGN5CSQ4ckFQmlbobQuuJ5rIu13Ma4tMRMSArvGTwcLfUQ6A/s1600/d04-cara-ajukan-akses-dana-cicil-lewat-diana.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/cara-ajukan-akses-dana-cicil-lewat-diana.html"
     },
     {
       "id": 5,
-      "category": "Dana",
-      "title": "FAQ Dana Instan ?",
-      "image": "https://i.pinimg.com/736x/dd/9b/0f/dd9b0f6b4beb435cd4f35d4132e19c94.jpg",
-      "content": "https://prmptphoto.blogspot.com/2025/12/faq-dana-instan.html",
-      "video": ""
+      "category": "Aktivasi Fitur",
+      "title": "Cara Aktivasi DANA Cicil Jika Fiturnya Sudah Muncul di Akun Anda",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwILfLLGxS7Om_VhUzV-oRHf4N94p-FFlUFQXC1XAG1sXNfOXdQIybhBjHOeU7JRw7DC-ZvIhuVZRSJ_AzySsuRcLl1v5OO8Q0ST-OZKe7WhT6Gdd7wjVnsALDTVWZZgkCxDpDc5jbMci_HiKVVX9iBVYqQbaysSza4XZAUz1D7wXohieUwA9A6eNmzrM/s1600/d05-cara-aktivasi-dana-cicil.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/cara-aktivasi-dana-cicil.html"
     },
     {
       "id": 6,
-      "category": "Dana, Tips & Trick",
-      "title": "Tips Agar Peluang Dana Instan Disetujui",
-      "image": "https://i.pinimg.com/736x/92/e5/a5/92e5a5f2a8525ed28be6905aafa9066c.jpg",
-      "content": "https://prmptphoto.blogspot.com/2025/12/tips-agar-peluang-disetujui.html",
-      "video": ""
+      "category": "Aktivasi Fitur",
+      "title": "Menu DANA Cicil Tidak Muncul? Ini Penjelasan dan Langkah yang Bisa Dilakukan",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqfjTEfGVDgrG77DxSLkPGCJr9YSTlaXVmIpHkpqvnGY7M-tJ99YwjZ0preycjaZbzS5dWcL_l5ZKuLsp1_zrqFhQRgEXuPuoqKX-irjsgQRd_25WlhQLvyoErYbRP1ie_KCZOYj-g9hrSJsdRcE-x9Wl2c_6XITKghmr_6O2hPzl8Vnyk6pRN9SClxhM/s1600/d06-menu-dana-cicil-tidak-muncul.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/menu-dana-cicil-tidak-muncul.html"
     },
     {
       "id": 7,
-      "category": "Ovo, Apps",
-      "title": "Apa itu Ovo Paylater ?",
-      "image": "https://i.pinimg.com/736x/1d/c5/f9/1dc5f90cb044593bad4ef3894d5034fd.jpg",
-      "content": "https://prmptphoto.blogspot.com/2025/12/apa-itu-ovo-paylater.html",
-      "video": ""
+      "category": "Aktivasi Fitur",
+      "title": "Limit DANA Cicil Belum Ditampilkan: Cara Mengetahui Cukup atau Tidaknya",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM_hjX2d2l52GXHxN4I8XvhTYNR_8_npqtxMD99FM7fcNknQwbbavO38o8dPOlEfoUKyZmQr8qa_Ac8oCJcNekYNAnuNyx5CmFLKUKdC2lamCnGLL7zOrz3cEXjKbIOUH_dlZRbYby_GPnCdREFpiClWDvDVtzXwg7X2_0V7PFl0jT3yGjnGcUFGHz6iE/s1600/d07-cara-mengetahui-limit-dana-cicil.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/cara-mengetahui-limit-dana-cicil.html"
     },
     {
       "id": 8,
-      "category": "Ovo",
-      "title": "Syarat OVO PayLater",
-      "image": "https://i.pinimg.com/736x/91/4d/42/914d4214fe9dec5467fb07b0446a038a.jpg",
-      "content": "https://prmptphoto.blogspot.com/2025/12/syarat-ovo-paylater.html",
-      "video": ""
+      "category": "Aktivasi Fitur",
+      "title": "Cara Cek Riwayat Kredit di SLIK OJK Secara Gratis Lewat iDebKu",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio6G2E5J7xROrXRobWRdPu_GzckE8fabGZ2ayXZuXz7FEdhMD8bzXgDgk01iuv6RRY7OJt-O_-MD526yIwsxZJy2sG8JgIzfkDUQ_4h6QUVi5rRZDNcxrC2rURCxqujLCQY6-MJVNDYeLAyW5rSzNxBU4YsynOLVkY0WOrO7Ogk-DA9m9FApukTdtf6Ok/s1600/15-cek-slik-ojk-gratis.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/cara-cek-slik-ojk-gratis.html"
     },
     {
       "id": 9,
-      "category": "Ovo",
-      "title": "Cara Mengaktifkan OVO PayLater",
-      "image": "https://i.pinimg.com/736x/09/ac/27/09ac27f538b1c63c87c50e0fb8b02c55.jpg",
-      "content": "https://prmptphoto.blogspot.com/2025/12/cara-mengaktifkan-ovo-paylater.html?rewarded",
-      "video": ""
+      "category": "Aktivasi Fitur",
+      "title": "Syarat Terbaru Menjadi Pengguna Paylater Menurut OJK",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieKHQxaCG518mlydM5OfNiqVHQ4r-mF_pbfHujMPy1jptF5yJ0ZkgH5YlkF01rj7xx1KGkUGizos2S-ifnGaC8lnnO08qlv6kBJ9vDKbzGkorXrPqllWbNkRROc0JA80ZcHGCzmoSr-eim2KPQWEW2WRHv18LW6jFSokstxz97ZxIZHzSaSkL6_E3p38Y/s1600/11-syarat-terbaru-pengguna-paylater.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/syarat-terbaru-pengguna-paylater.html"
     },
     {
       "id": 10,
-      "category": "Ovo",
-      "title": "Penyebab OVO PayLater Tidak Muncul",
-      "image": "https://i.pinimg.com/736x/03/56/4f/03564fd9ab70f80364a61b4667e0183e.jpg",
-      "content": "https://prmptphoto.blogspot.com/2025/12/penyebab-ovo-paylater-tidak-muncul.html</p>",
-      "video": ""
+      "category": "Keamanan Akun",
+      "title": "PIN dan OTP DANA: Mengapa Tidak Boleh Diberikan kepada Siapa Pun",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiflHoTKFFMt2lzx9_La4c4UXsfvbdmf3Smv2mn1nSgioGzTRyzdoZlcuf7J_Hzj8PeyHETcE4fp98VB08M_xMOvAuWNIn_TidG7tGiVgvPxgnRtEOfUqLR3hhYQPwTY1eax3rX6ijuStNYItSe1cAcN89JJumnFoWifv4GlCz6Z7yzITO84V9RUsF9ID4/s1600/d08-jangan-berikan-pin-otp-dana.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/jangan-berikan-pin-otp-dana.html"
     },
     {
       "id": 11,
-      "category": "Ovo, Tips & Trick",
-      "title": "Tips Agar Peluang Disetujui OVO PayLater",
-      "image": "https://i.pinimg.com/736x/05/d3/59/05d359d8ca1cfe95f73565da7379a3c2.jpg",
-      "content": "https://prmptphoto.blogspot.com/2025/12/tips-agar-peluang-disetujui-ovo-paylater.html",
-      "video": ""
+      "category": "Keamanan Akun",
+      "title": "Akun DANA Dipakai Orang Lain: Langkah Mengamankan dan Melapor",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguRi_2nzfaD4Z9RdQLXjaxXTVVMQwd22T0HTzQjg8nsAD-b-sgV4IDmHguf1S-O-tE-Yklu9qpmiXv9t_gmeQQP12mapAVKvDMqBFl2soi3k3itV5C23o3zp6sfw_6WZj4vAy0Fp_hBXQgkh4kjy8aAEKbG1IwVKrUXxs7K3WqLGZkair4hbNA6nU7pio/s1600/d09-akun-dana-dipakai-orang-lain.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/akun-dana-dipakai-orang-lain.html"
     },
     {
       "id": 12,
-      "category": "Gopay",
-      "title": "Apa Itu GoPay PayLater?",
-      "image": "https://i.pinimg.com/736x/35/63/43/3563430cd8841d91dfcf5c751e337849.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/apa-itu-gopay-paylater.html",
-      "video": ""
+      "category": "Keamanan Akun",
+      "title": "DANA Protection: Apa yang Dilindungi dan Syarat Klaimnya",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtOMHCjnI8XPmrntWup-7NsttsMOCq3CWZWbKsD4RDtriw-ZHvaRACE0ahE4-dMzOZruswqA1lNqwVGscZoDp2tdwaYUF_nMGeRVV05nkv24K_1jys9NmxUQB5mzEcggTt9jdy8ejwyI-kROv8tyoa3QR0py7yIGW0etTJWEnsGT5A8m2tQXUG54xR9Vg/s1600/d10-dana-protection-syarat-klaim.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/dana-protection-syarat-klaim.html"
     },
     {
       "id": 13,
-      "category": "Gopay",
-      "title": "Fungsi & Kegunaan GoPay PayLater",
-      "image": "https://i.pinimg.com/736x/88/09/e2/8809e27134ff80defa2abc477f3dbd64.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/fungsi-kegunaan-gopay-paylater.html",
-      "video": ""
+      "category": "Keamanan Akun",
+      "title": "Bahaya Meminjamkan KTP atau Akun untuk Pinjaman Orang Lain",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_HzjmeydhFLW5hGWomZU7E6feYWuAaFVJ0IKR2xSMGm_0gAp1MvwFT3qt9iRNBUAgOtyWsw-1IQxr5VZRCyFM3ukgwM9RS9lcsU0QzLxzGV4K1aDKEc5MlCOP6eOnegTRVcVTuMdgtelwDSLv036rB3b0GSRhDJnuG4nKFyGb84G_LFAn5giFNf3_2QI/s1600/30-bahaya-meminjamkan-ktp.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/bahaya-meminjamkan-ktp-akun.html"
     },
     {
       "id": 14,
-      "category": "Gopay",
-      "title": "Syarat GoPay PayLater",
-      "image": "https://i.pinimg.com/736x/b9/12/ae/b912aef808b4f7bbed580f8642f9dc0d.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/syarat-gopay-paylater.html",
-      "video": ""
+      "category": "Keamanan Akun",
+      "title": "Nama Dipakai Orang Lain untuk Pinjaman: Cara Mengecek dan Melapor",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht5P5WykeeQuOBwlBWxeR7Ik4X3uswQPsbYcKXvxKOfmBGtsXiifwejs-dXmDkYTd9iLL03VhuriqhLVjKzrhG5ZYFzloA_x2DjP-_Mc22kWWovwyqqFgG2C9YVRuFaBBC09adJiE0uvgW-beg9aFy71atVUnW_-pBtiF67PeGvufpkVJRBxjjw9HREAM/s1600/23-nama-dipakai-pinjaman-orang-lain.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/nama-dipakai-pinjaman-orang-lain.html"
     },
     {
       "id": 15,
-      "category": "Gopay",
-      "title": "Cara Mengaktifkan GoPay PayLater",
-      "image": "https://i.pinimg.com/736x/83/0e/79/830e79a68da9468a36887ba26e38597c.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/cara-mengaktifkan-gopay-paylater.html?rewarded",
-      "video": ""
+      "category": "Keamanan Akun",
+      "title": "Izin Akses Ponsel yang Boleh dan Tidak Boleh Diminta Aplikasi Pinjaman",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2qzJk_xWhKfDMvK4jpALsFJESYbiqKfPpmNrMYFuuiVKutYG2nH73Tdj36PfOHxmb6sUTIZjTKfr1gEpHVhi2GKwlONu9gkKui0rZTkQH19FQDTGh2xFoYOSXGYZxjJa35tFW7BVn0DE_tmpnS9SC48B331wMFDiCe5sTRjYD0dXJr5L_Cqmb2eo_94/s1600/06-izin-akses-ponsel-aplikasi-pinjaman.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/izin-akses-ponsel-aplikasi-pinjaman.html"
     },
     {
       "id": 16,
-      "category": "Gopay",
-      "title": "Alasan GoPay PayLater Tidak Muncul",
-      "image": "https://i.pinimg.com/736x/82/0c/d7/820cd79d3e2982493aefa28c7ea5d998.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/alasan-gopay-paylater-tidak-muncul.html",
-      "video": ""
+      "category": "Waspada Penipuan",
+      "title": "Tautan \"Aktivasi Pinjaman DANA\" di Media Sosial: Ciri Hoaks dan Cara Menghindarinya",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhenaWttlJx3ifDUfxwVBLRKqz7oQFNgJaiHezNRU_m0y7OadHUSXfC67mVTiYaHlZGO5r3N37GjEJba0YsIs2I6dZjNe-KXQfshvt5iXncsFXtAzGKzPYMJ_oXi6bAelnxfCCUz834WKcB7R9usuZqngSZCGLD_UmsAWpxn1xioyvQBB4dDEimREXufFw/s1600/d11-hoaks-tautan-aktivasi-pinjaman-dana.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/hoaks-tautan-aktivasi-pinjaman-dana.html"
     },
     {
       "id": 17,
-      "category": "Gopay",
-      "title": "Cara Cek Tagihan & Jatuh Tempo GoPay PayLater",
-      "image": "https://i.pinimg.com/736x/55/ca/12/55ca12277ff04c523b38513a7ae9c6f3.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/cara-cek-tagihan-jatuh-tempo-gopay.html",
-      "video": ""
+      "category": "Waspada Penipuan",
+      "title": "CS DANA Palsu di WhatsApp dan Media Sosial: Cara Mengenali dan Kanal Bantuan yang Benar",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2srq_Mr5vg1mws2rulf2g1SfMRICJKiBLFpqh4I8PXnhOQXdONukUoBc5oXAQgr7FavJNWtaHQ0C5XtE1_hfAMrfWDTe5ryF1vxXHhSpZ9nZZBV_15-ceyuja4Y-6sxn2SDQEV7GrDRzxTkIHlhU3f7OckuAF7pnNVqXLC9eOjFAa6EvPm_M46Jk_kiQ/s1600/d12-cs-dana-palsu-whatsapp.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/cs-dana-palsu-whatsapp.html"
     },
     {
       "id": 18,
-      "category": "Gopay",
-      "title": "FAQ GoPay PayLater",
-      "image": "https://i.pinimg.com/736x/87/a0/4a/87a04ad7fb551f8ed9abdce5926a90ff.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/faq-gopay-paylater.html",
-      "video": ""
+      "category": "Waspada Penipuan",
+      "title": "Cara Melaporkan Penipuan yang Mengatasnamakan DANA",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4wYu0gHEsamBayG4HUMIW5iZ7fTvEIpVQLLDHnbNPzeGveH9voAdTzbWOh0GP8x81TDoPIy5Qigg-Z0SDIPvt56U-58LkA2C2W_In1k8O84rdDWrNIpDb-iYsnqGjWRtWLCfIX3ph_fcQiSNdQVZgKkIzEx4ha14IHVNjhUGxrM8_Fyer8n53zgaecQw/s1600/d13-cara-lapor-penipuan-atas-nama-dana.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/cara-lapor-penipuan-atas-nama-dana.html"
     },
     {
       "id": 19,
-      "category": "Gopay, Tips & Trick",
-      "title": "Tips Menggunakan GoPay PayLater Secara Bijak",
-      "image": "https://i.pinimg.com/736x/de/23/ad/de23ad3c4dd56ea38b261781b77c054e.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/tips-menggunakan-gopay-paylater-secara.html",
-      "video": ""
-    },
-    {
-      "id": 17,
-      "category": "Shopee",
-      "title": "Apa Itu Shopee PayLater?",
-      "image": "https://i.pinimg.com/736x/a6/84/9c/a6849c940ef6db65ebee100d3fd3dd27.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/apa-itu-shopee-paylater.html",
-      "video": ""
-    },
-    {
-      "id": 18,
-      "category": "Shopee",
-      "title": "Fungsi & Kegunaan Shopee PayLater",
-      "image": "https://i.pinimg.com/736x/9a/79/9d/9a799d8b2883183acb681aa7581faeb4.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/fungsi-kegunaan-shopee-paylater.html",
-      "video": ""
-    },
-    {
-      "id": 19,
-      "category": "Shopee",
-      "title": "Syarat Shopee PayLater",
-      "image": "https://i.pinimg.com/736x/57/4a/c2/574ac2c803965ed69646f64e4d55d0fe.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/syarat-shopee-paylater.html",
-      "video": ""
+      "category": "Waspada Penipuan",
+      "title": "Penipuan Berkedok Pinjaman: Modus Minta Transfer Biaya Admin di Depan",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr0yjF_-vIHwvjh0rfhYcpjphc01br_86lUyliyQh_-mTEvvqYAzc8wMpsrcUaOjJuM39YlZ8EgfMb9gkrEl4ZoWKqZfnyNTsd2T_gvvlr50OcdHhTcRxw_xeqD1vrZUZJIrGumd2FSJGngJJc4CDC1sj6COszZgnLd9yczTZCeAoZFhwB9ZrNf0jZ-rc/s1600/19-penipuan-biaya-admin-pinjaman.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/penipuan-biaya-admin-pinjaman.html"
     },
     {
       "id": 20,
-      "category": "Shopee",
-      "title": "Cara Mengaktifkan Shopee PayLater",
-      "image": "https://i.pinimg.com/736x/53/76/3c/53763c33e5c937ca8104a61b8dae95c1.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/cara-mengaktifkan-shopee-paylater.html?rewarded",
-      "video": ""
+      "category": "Waspada Penipuan",
+      "title": "Tujuh Ciri Pinjol Ilegal dan Cara Melaporkannya",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmKchblyM_FjvAAEkZlv6QUR1GK62XuKaci7mKtp7yB0MuPhUQDxvIOVaQn_TU2-oSPGu3F5ZvmK3Bd0VXpzgVdvaygkcUuOok5EWGfrGZdaJnMgG0XFNQR26zPmYq3k5SxWZ6Mp39Ds-MGLBLLGaAaOHQgi4b5ZOpw5jmsK7Z-LA18LCTlq-lz7SGzKI/s1600/02-ciri-pinjol-ilegal-cara-lapor.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/ciri-pinjol-ilegal-cara-lapor.html"
     },
     {
       "id": 21,
-      "category": "Shopee",
-      "title": "Alasan Shopee PayLater Tidak Muncul",
-      "image": "https://i.pinimg.com/736x/25/e6/a2/25e6a2a4094df23a212f7188278a8980.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/alasan-shopee-paylater-tidak-muncul.html",
-      "video": ""
+      "category": "Waspada Penipuan",
+      "title": "Cara Mengecek Pinjol Legal (Pindar) Lewat Situs dan Kontak Resmi OJK",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFL24Brh5CCrYP3lA_BVaVOfiWiqIQpxfJDjbPx-hGsBzscIpfQ7DSsvA11YG9Z5jlb99Xcy3Kiwoaht4UE33a5Bkaed0OlwHpQ0xsDRuJA7JQiXycQ4lqBCEq0Lw7p_FFJ7TKJKdIHmRpD6I97chNUe5IqqYnS8L_sdTDBapPWs9OIQcrdQRCJSEfHYs/s1600/01-cek-pinjol-legal-ojk.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/cara-cek-pinjol-legal-ojk.html"
     },
     {
       "id": 22,
-      "category": "Shopee",
-      "title": "Cara Cek Tagihan & Jatuh Tempo Shopee PayLater",
-      "image": "https://i.pinimg.com/736x/0e/64/8c/0e648cb19e620a151ba2318ba73702d7.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/cara-cek-tagihan-jatuh-tempo-shopee.html",
-      "video": ""
+      "category": "Waspada Penipuan",
+      "title": "Jasa Pemutihan SLIK: Mengapa Riwayat Kredit Tidak Bisa Dihapus Instan",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyS8nTcNTcaLHTmM8t2nRyKoxRKnnPEVQBsr_wC8LnsksQFeDcYBOTt8Suy9wUqs-ZV0ldjQ6bXPCGQFW1RwnWDOU1yXdfMBZC6oumVbHxCofikAKa-p4MpoWrczFAh0vM30c-Of818t61g0h3S4XdbQYx-HhD_spt-yU_aM7f_Uoy8FArub4Wtsf9mAY/s1600/24-jasa-pemutihan-slik.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/blog-post_02.html"
     },
     {
       "id": 23,
-      "category": "Shopee",
-      "title": "FAQ Shopee PayLater",
-      "image": "https://i.pinimg.com/736x/2e/8e/32/2e8e32bb6d330dfad94021642be5b043.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/faq-shopee-paylater.html",
-      "video": ""
+      "category": "Biaya dan Hak",
+      "title": "Bunga, Denda, dan Biaya DANA Cicil per 2 November 2026",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUTHrHKt-_s5goe4R4AAwY8hxCqocg0aaEvyrpdTA5BoHdeslyuCjgOwrhRdTqpkstK4cqXr09MA7a9oTB2uQ8Zae4RCXFN1XOJZ_mTwbn_VrKNJAJheUhGL9XddpdZfWgW7YKpN3FgKtRd-JARkafyaZYd2LJPewQ_qvh42lDMjSJgd2uXcOh7LVnnaY/s1600/d14-bunga-denda-biaya-dana-cicil.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/bunga-denda-biaya-dana-cicil.html"
     },
     {
       "id": 24,
-      "category": "Shopee, Tips & Trick",
-      "title": "Tips Menggunakan Shopee PayLater Secara Bijak",
-      "image": "https://i.pinimg.com/736x/17/23/57/17235723c1c8f3033cfcd223d67ce036.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/tips-menggunakan-shopee-paylater-secara.html",
-      "video": ""
+      "category": "Biaya dan Hak",
+      "title": "Siapa yang Mengawasi DANA dan DANA Cicil: Bank Indonesia, Komdigi, atau OJK?",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL8ILNBkNmbXCKuXC0n5k0t6jeXW6xAljXZocRo9y_ropC6JTJKqKHMyPfpMpPVZAJ0jaKF89HCJMm9WNTHx-kOZsKHz0RAigKqBpuL_qg8d9Gt7l5DfbohhEX8oMR-hpOB8AtYaE4X5lkBjhlSPk0xe75y099MgFtBnz6ZGysY_vhygBkf7Y5jcVKUmI/s1600/d15-pengawas-dana-dan-dana-cicil.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/pengawas-dana-dan-dana-cicil.html"
     },
     {
       "id": 25,
-      "category": "Linkaja",
-      "title": "Apa Itu LinkAja PayLater?",
-      "image": "https://i.pinimg.com/736x/7d/de/26/7dde26bf5e7ab422679261c667f07dab.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/apa-itu-linkaja-paylater.html",
-      "video": ""
+      "category": "Biaya dan Hak",
+      "title": "Hak dan Kewajiban Anda Sebelum Menyetujui Fitur Pembiayaan di DANA",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKubNOIJeGIJ8Aje2w6r2EczN1vy436vgeLVgImZP3zf43Ad0jvNA7rDMppCFuOCg0BY1km-dws2mXIno6o9DAvHFNVeYMW_VoVj43XOnaA-y-tjcES5x5GyBkaQhQaw4lw3YCb_jCmlxTfgL5XLvv8XikHBWMIai7hR3EEkVxnhiXXl9zAaRvee3rxQs/s1600/d16-hak-kewajiban-pengguna-dana-cicil.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/hak-kewajiban-pengguna-dana-cicil.html"
     },
     {
       "id": 26,
-      "category": "Linkaja",
-      "title": "Cara Kerja LinkAja PayLater",
-      "image": "https://i.pinimg.com/736x/ef/6e/e9/ef6ee9c875e00133de8d799df531aecc.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/cara-kerja-linkaja-paylater.html",
-      "video": ""
+      "category": "Biaya dan Hak",
+      "title": "Ke Mana Mengadu Jika Bermasalah dengan Pinjaman Daring",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1yqN-2CGw-5HJtFpBdMFbTC3ktHAXzCeZ08SIYZwsW6sDeyxNiMDdiaOm6YNoX9hwcxst6Dye97teceyPiUyHgUpvOaIchwc7Kc0EHb2jwSbP5MySFYCoHE3b8Wl-WLyvKBZlvswme1IZ87OBURrsIjN3oqQB4NGX3DJREah4BZwjxkxBmXoP0qSZArs/s1600/20-ke-mana-mengadu-masalah-pinjaman.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/ke-mana-mengadu-masalah-pinjaman.html"
     },
     {
       "id": 27,
-      "category": "Linkaja",
-      "title": "Syarat & Verifikasi yang Umum Dibutuhkan LinkAja PayLater",
-      "image": "https://i.pinimg.com/736x/95/d8/75/95d8751e9bf4658a880e0170752ff235.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/syarat-verifikasi-linkaja-paylater.html",
-      "video": ""
+      "category": "Biaya dan Hak",
+      "title": "Membaca Perjanjian Pinjaman dan RIPLAY Sebelum Menyetujui",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9oJYBCV5HZGxqu0PN5QItLRNsi5uEaKqMIO8utq-1OhTUtsD2wYp6DH1ShunWd2cdxEkgZXRPWviHpurWx9ZyY3QHtb8ODPSfGUFnQdvEIS0Mgp16GNiiP5d_d4LA3LY2p3kEn-Fam-TA4Rz2T_SDhIqWUuBuAbUl8VsI-7mgH0Et0BHU_DYTOUSSkRg/s1600/29-membaca-perjanjian-pinjaman.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/membaca-perjanjian-pinjaman-riplay.html"
     },
     {
       "id": 28,
-      "category": "Linkaja",
-      "title": "Cara Mengaktifkan LinkAja PayLater",
-      "image": "https://i.pinimg.com/736x/b8/e0/54/b8e05413649c61fed49e5a2b1caa621b.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/cara-mengaktifkan-linkaja-paylater.html?rewarded",
-      "video": ""
+      "category": "Biaya dan Hak",
+      "title": "Hak Peminjam Saat Ditagih: Aturan Penagihan yang Wajib Dipatuhi",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQPmj8ZpQAIza6UO1YsVffRdWcVRdQUN0UTeK8f3guUh3WOee-1SL4nl37bDPVnt4puf7uTR3VWfb1r9gker52BoomaNm85uCT-EGrZQ83YrueHhW5flDUBACPkn6iyGtcNS6PiALZUJD35AJzA91HMJAB-IrKN_nnxJgb0JDbLqHEvLs1_ja69j1bfAM/s1600/05-hak-peminjam-saat-ditagih.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/hak-peminjam-saat-ditagih.html"
     },
     {
       "id": 29,
-      "category": "Linkaja",
-      "title": "Cara Menggunakan LinkAja PayLater Saat Pembayaran",
-      "image": "https://i.pinimg.com/736x/4c/79/b2/4c79b2fb0acb0fd727cc31aea7c83450.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/cara-menggunakan-linkaja-paylater-saat.html",
-      "video": ""
+      "category": "Biaya dan Hak",
+      "title": "Rasio Utang yang Aman dari Penghasilan dan Cara Menghitungnya",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnU22l18nqSRBlHJS-KZDBmJCopcW2rGUP2-l5DMwV7AyJz7-WhEJEWIoxF3xAmPFHWbRrs9l1piqAAqAZYrfF2dAX2wdE5GXLLQmPBAOtnQ_w3OFxSSduRmAAgmLIEU7pRfiss3UwKntdw2vJUk-SMO2kisi-nMzbgpOifnvVhDGCFpHmtT1tZHZTtu0/s1600/16-rasio-utang-aman.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/rasio-utang-aman.html"
     },
     {
       "id": 30,
-      "category": "Linkaja",
-      "title": "Cara Cek Tagihan, Jatuh Tempo, dan Status Pembayaran",
-      "image": "https://i.pinimg.com/736x/02/14/f6/0214f631459d9ea8c0576ca69cef1a7b.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/cara-cek-tagihan-jatuh-tempo-linkaja.html",
-      "video": ""
+      "category": "Biaya dan Hak",
+      "title": "Telat Bayar Paylater: Dampaknya ke SLIK OJK dan Cara Memulihkannya",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5-ETRha8pCg7l2VgZFYLqB8IhRdR2btOcDxgPBN2-iVjb47ICn1w2dUcg4zbgukXmxC02d9aKCg-Q9Pabd84Yr8AHGLKzCKkILwE94-xPF372zGKLLlvGT0gTogqWqd8HlnCwcRPe-dFQEBVqQza1qTfYPM1nkit31eZa3qCT9hcKrUCfL4PLUo4qks/s1600/12-telat-bayar-paylater-slik.png",
+      "content": "https://gemezdev.blogspot.com/2026/11/telat-bayar-paylater-slik-ojk.html"
     },
     {
       "id": 31,
-      "category": "Linkaja, Tips & Trick",
-      "title": "Keamanan Akun & Tips Menghindari Penipuan LinkAja PayLater",
-      "image": "https://i.pinimg.com/736x/81/f8/f0/81f8f0ecb5186771a65e05719da7821c.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/keamanan-akun-tips-menghindari-penipuan.html",
-      "video": ""
+      "category": "Tools",
+      "title": "Cek Pinjol Legal",
+      "image": "https://gemezinfahrul.github.io/guidetools/sampul/cek-pindar.webp",
+      "content": "https://gemezinfahrul.github.io/guidetools/cek-pindar.html"
     },
     {
       "id": 32,
-      "category": "Linkaja",
-      "title": "FAQ LinkAja PayLater & Solusi Masalah Umum",
-      "image": "https://i.pinimg.com/736x/b7/6c/bb/b76cbbfc44b6f902a62400b8985359dd.jpg",
-      "content": "https://prmptphoto.blogspot.com/2026/01/faq-linkaja-paylater-solusi-masalah-umum.html",
-      "video": ""
+      "category": "Tools",
+      "title": "Tes Ciri Pinjol Ilegal",
+      "image": "https://gemezinfahrul.github.io/guidetools/sampul/alat-ciri-ilegal.webp",
+      "content": "https://gemezinfahrul.github.io/guidetools/alat-ciri-ilegal.html"
+    },
+    {
+      "id": 33,
+      "category": "Tools",
+      "title": "Kalkulator Biaya Pindar dan Batas OJK",
+      "image": "https://gemezinfahrul.github.io/guidetools/sampul/alat-biaya-pindar.webp",
+      "content": "https://gemezinfahrul.github.io/guidetools/alat-biaya-pindar.html"
+    },
+    {
+      "id": 34,
+      "category": "Tools",
+      "title": "Kalkulator Denda Keterlambatan Pindar",
+      "image": "https://gemezinfahrul.github.io/guidetools/sampul/alat-denda-pindar.webp",
+      "content": "https://gemezinfahrul.github.io/guidetools/alat-denda-pindar.html"
+    },
+    {
+      "id": 35,
+      "category": "Tools",
+      "title": "Kalkulator Cicilan Anuitas",
+      "image": "https://gemezinfahrul.github.io/guidetools/sampul/alat-cicilan.webp",
+      "content": "https://gemezinfahrul.github.io/guidetools/alat-cicilan.html"
+    },
+    {
+      "id": 36,
+      "category": "Tools",
+      "title": "Konversi Bunga Flat ke Efektif",
+      "image": "https://gemezinfahrul.github.io/guidetools/sampul/alat-flat-efektif.webp",
+      "content": "https://gemezinfahrul.github.io/guidetools/alat-flat-efektif.html"
+    },
+    {
+      "id": 37,
+      "category": "Tools",
+      "title": "Kalkulator Cicilan Paylater",
+      "image": "https://gemezinfahrul.github.io/guidetools/sampul/alat-paylater.webp",
+      "content": "https://gemezinfahrul.github.io/guidetools/alat-paylater.html"
+    },
+    {
+      "id": 38,
+      "category": "Tools",
+      "title": "Kalkulator Rasio Utang",
+      "image": "https://gemezinfahrul.github.io/guidetools/sampul/alat-rasio-utang.webp",
+      "content": "https://gemezinfahrul.github.io/guidetools/alat-rasio-utang.html"
+    },
+    {
+      "id": 39,
+      "category": "Tools",
+      "title": "Cek Izin Akses Aplikasi Pinjaman",
+      "image": "https://gemezinfahrul.github.io/guidetools/sampul/alat-izin-aplikasi.webp",
+      "content": "https://gemezinfahrul.github.io/guidetools/alat-izin-aplikasi.html"
+    },
+    {
+      "id": 40,
+      "category": "Tools",
+      "title": "Rencana Lunasi Utang: Avalanche dan Snowball",
+      "image": "https://gemezinfahrul.github.io/guidetools/sampul/alat-lunasi-utang.webp",
+      "content": "https://gemezinfahrul.github.io/guidetools/alat-lunasi-utang.html"
     }
   ]
 }
