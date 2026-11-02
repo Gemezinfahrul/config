@@ -1,0 +1,361 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Dana",
+      "image": "https://i.pinimg.com/736x/5b/46/f9/5b46f977596bf95797e542bc6ffbfb9a.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ovo",
+      "image": "https://i.pinimg.com/736x/36/87/78/36877833feec9d65a0c636b92f025f5b.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Gopay",
+      "image": "https://i.pinimg.com/736x/cf/1b/4c/cf1b4c66e1a737ec803c390747da9143.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Shopee",
+      "image": "https://i.pinimg.com/736x/18/36/17/1836179a7e3f21405815a84dbb679e6f.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Linkaja",
+      "image": "https://i.pinimg.com/736x/92/e1/fd/92e1fd65f63a6b07b3a71907509af924.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Tools",
+      "image": "https://i.pinimg.com/736x/82/6c/95/826c95e77e1b174d0d241c2a72ab0420.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Tips & Trick",
+      "image": "https://i.pinimg.com/736x/07/d0/21/07d021276cf0a58f6b38f2e3028f61e2.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Tools, Tips & Trick",
+      "title": "Daftar Layanan Keuangan Terdaftar",
+      "image": "https://i.pinimg.com/736x/81/0d/91/810d91c95d1159c71a7cb89bca768ac3.jpg",
+      "content": "https://arobdev.my.id/checker.html?rewarded",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Tools",
+      "title": "Kalkulator Simulasi",
+      "image": "https://i.pinimg.com/736x/62/28/4a/62284afd8ff56f2620f711d03310b6cb.jpg",
+      "content": "https://arobdev.my.id/kalkulatorpinjolmobile.html",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Tools",
+      "title": "Checklist Kelayakan Pengajuan",
+      "image": "https://i.pinimg.com/736x/02/8a/35/028a359932a376cb77deb920034a90ef.jpg",
+      "content": "https://arobdev.my.id/kelayakan.html",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Tools",
+      "title": "Budget Planner - Rasio Cicilan",
+      "image": "https://i.pinimg.com/736x/66/c0/01/66c001ec52d57a2720a425ba84d3f167.jpg",
+      "content": "https://arobdev.my.id/budgetplaner.html",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Tools",
+      "title": "Glosarium Istilah + Bookmark",
+      "image": "https://i.pinimg.com/736x/f5/7c/0f/f57c0f33af2c6e824a3e4b170319890e.jpg",
+      "content": "https://arobdev.my.id/istilah.html",
+      "video": ""
+    },
+    {
+      "id": 1,
+      "category": "Dana, Tips & Trick",
+      "title": "Apa Itu Dana Instan ?",
+      "image": "https://i.pinimg.com/736x/42/a5/f4/42a5f439f208d2429911d6a99472da5e.jpg",
+      "content": "https://prmptphoto.blogspot.com/2025/12/apa-itu-dana-instan.html",
+      "video": ""
+    },
+    {
+      "id": 2,
+      "category": "Dana, Lifestyle",
+      "title": "Syarat Dana Instan Muncul",
+      "image": "https://i.pinimg.com/736x/12/89/85/1289858ab67fa16262b030318cc8c5fe.jpg",
+      "content": "https://prmptphoto.blogspot.com/2025/12/syarat-dana-instan-muncul.html",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Dana, Apps",
+      "title": "Cara Mengaktifkan Dana Instan",
+      "image": "https://i.pinimg.com/736x/8d/cc/6a/8dcc6abea5752ba1fdeaedc85ea93462.jpg",
+      "content": "https://prmptphoto.blogspot.com/2025/12/cara-mengaktifkan-dana-instan.html?rewarded",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Dana",
+      "title": "Penyebab Dana Instan Tidak Muncul",
+      "image": "https://i.pinimg.com/736x/56/41/07/56410747084e4a7eb72219bfca33c8fa.jpg",
+      "content": "https://prmptphoto.blogspot.com/2025/12/penyebab-dana-instan-tidak-muncul.html?rewarded",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Dana",
+      "title": "FAQ Dana Instan ?",
+      "image": "https://i.pinimg.com/736x/dd/9b/0f/dd9b0f6b4beb435cd4f35d4132e19c94.jpg",
+      "content": "https://prmptphoto.blogspot.com/2025/12/faq-dana-instan.html",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Dana, Tips & Trick",
+      "title": "Tips Agar Peluang Dana Instan Disetujui",
+      "image": "https://i.pinimg.com/736x/92/e5/a5/92e5a5f2a8525ed28be6905aafa9066c.jpg",
+      "content": "https://prmptphoto.blogspot.com/2025/12/tips-agar-peluang-disetujui.html",
+      "video": ""
+    },
+    {
+      "id": 7,
+      "category": "Ovo, Apps",
+      "title": "Apa itu Ovo Paylater ?",
+      "image": "https://i.pinimg.com/736x/1d/c5/f9/1dc5f90cb044593bad4ef3894d5034fd.jpg",
+      "content": "https://prmptphoto.blogspot.com/2025/12/apa-itu-ovo-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "Ovo",
+      "title": "Syarat OVO PayLater",
+      "image": "https://i.pinimg.com/736x/91/4d/42/914d4214fe9dec5467fb07b0446a038a.jpg",
+      "content": "https://prmptphoto.blogspot.com/2025/12/syarat-ovo-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "Ovo",
+      "title": "Cara Mengaktifkan OVO PayLater",
+      "image": "https://i.pinimg.com/736x/09/ac/27/09ac27f538b1c63c87c50e0fb8b02c55.jpg",
+      "content": "https://prmptphoto.blogspot.com/2025/12/cara-mengaktifkan-ovo-paylater.html?rewarded",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "Ovo",
+      "title": "Penyebab OVO PayLater Tidak Muncul",
+      "image": "https://i.pinimg.com/736x/03/56/4f/03564fd9ab70f80364a61b4667e0183e.jpg",
+      "content": "https://prmptphoto.blogspot.com/2025/12/penyebab-ovo-paylater-tidak-muncul.html</p>",
+      "video": ""
+    },
+    {
+      "id": 11,
+      "category": "Ovo, Tips & Trick",
+      "title": "Tips Agar Peluang Disetujui OVO PayLater",
+      "image": "https://i.pinimg.com/736x/05/d3/59/05d359d8ca1cfe95f73565da7379a3c2.jpg",
+      "content": "https://prmptphoto.blogspot.com/2025/12/tips-agar-peluang-disetujui-ovo-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 12,
+      "category": "Gopay",
+      "title": "Apa Itu GoPay PayLater?",
+      "image": "https://i.pinimg.com/736x/35/63/43/3563430cd8841d91dfcf5c751e337849.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/apa-itu-gopay-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 13,
+      "category": "Gopay",
+      "title": "Fungsi & Kegunaan GoPay PayLater",
+      "image": "https://i.pinimg.com/736x/88/09/e2/8809e27134ff80defa2abc477f3dbd64.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/fungsi-kegunaan-gopay-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 14,
+      "category": "Gopay",
+      "title": "Syarat GoPay PayLater",
+      "image": "https://i.pinimg.com/736x/b9/12/ae/b912aef808b4f7bbed580f8642f9dc0d.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/syarat-gopay-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 15,
+      "category": "Gopay",
+      "title": "Cara Mengaktifkan GoPay PayLater",
+      "image": "https://i.pinimg.com/736x/83/0e/79/830e79a68da9468a36887ba26e38597c.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/cara-mengaktifkan-gopay-paylater.html?rewarded",
+      "video": ""
+    },
+    {
+      "id": 16,
+      "category": "Gopay",
+      "title": "Alasan GoPay PayLater Tidak Muncul",
+      "image": "https://i.pinimg.com/736x/82/0c/d7/820cd79d3e2982493aefa28c7ea5d998.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/alasan-gopay-paylater-tidak-muncul.html",
+      "video": ""
+    },
+    {
+      "id": 17,
+      "category": "Gopay",
+      "title": "Cara Cek Tagihan & Jatuh Tempo GoPay PayLater",
+      "image": "https://i.pinimg.com/736x/55/ca/12/55ca12277ff04c523b38513a7ae9c6f3.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/cara-cek-tagihan-jatuh-tempo-gopay.html",
+      "video": ""
+    },
+    {
+      "id": 18,
+      "category": "Gopay",
+      "title": "FAQ GoPay PayLater",
+      "image": "https://i.pinimg.com/736x/87/a0/4a/87a04ad7fb551f8ed9abdce5926a90ff.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/faq-gopay-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 19,
+      "category": "Gopay, Tips & Trick",
+      "title": "Tips Menggunakan GoPay PayLater Secara Bijak",
+      "image": "https://i.pinimg.com/736x/de/23/ad/de23ad3c4dd56ea38b261781b77c054e.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/tips-menggunakan-gopay-paylater-secara.html",
+      "video": ""
+    },
+    {
+      "id": 17,
+      "category": "Shopee",
+      "title": "Apa Itu Shopee PayLater?",
+      "image": "https://i.pinimg.com/736x/a6/84/9c/a6849c940ef6db65ebee100d3fd3dd27.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/apa-itu-shopee-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 18,
+      "category": "Shopee",
+      "title": "Fungsi & Kegunaan Shopee PayLater",
+      "image": "https://i.pinimg.com/736x/9a/79/9d/9a799d8b2883183acb681aa7581faeb4.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/fungsi-kegunaan-shopee-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 19,
+      "category": "Shopee",
+      "title": "Syarat Shopee PayLater",
+      "image": "https://i.pinimg.com/736x/57/4a/c2/574ac2c803965ed69646f64e4d55d0fe.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/syarat-shopee-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 20,
+      "category": "Shopee",
+      "title": "Cara Mengaktifkan Shopee PayLater",
+      "image": "https://i.pinimg.com/736x/53/76/3c/53763c33e5c937ca8104a61b8dae95c1.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/cara-mengaktifkan-shopee-paylater.html?rewarded",
+      "video": ""
+    },
+    {
+      "id": 21,
+      "category": "Shopee",
+      "title": "Alasan Shopee PayLater Tidak Muncul",
+      "image": "https://i.pinimg.com/736x/25/e6/a2/25e6a2a4094df23a212f7188278a8980.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/alasan-shopee-paylater-tidak-muncul.html",
+      "video": ""
+    },
+    {
+      "id": 22,
+      "category": "Shopee",
+      "title": "Cara Cek Tagihan & Jatuh Tempo Shopee PayLater",
+      "image": "https://i.pinimg.com/736x/0e/64/8c/0e648cb19e620a151ba2318ba73702d7.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/cara-cek-tagihan-jatuh-tempo-shopee.html",
+      "video": ""
+    },
+    {
+      "id": 23,
+      "category": "Shopee",
+      "title": "FAQ Shopee PayLater",
+      "image": "https://i.pinimg.com/736x/2e/8e/32/2e8e32bb6d330dfad94021642be5b043.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/faq-shopee-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 24,
+      "category": "Shopee, Tips & Trick",
+      "title": "Tips Menggunakan Shopee PayLater Secara Bijak",
+      "image": "https://i.pinimg.com/736x/17/23/57/17235723c1c8f3033cfcd223d67ce036.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/tips-menggunakan-shopee-paylater-secara.html",
+      "video": ""
+    },
+    {
+      "id": 25,
+      "category": "Linkaja",
+      "title": "Apa Itu LinkAja PayLater?",
+      "image": "https://i.pinimg.com/736x/7d/de/26/7dde26bf5e7ab422679261c667f07dab.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/apa-itu-linkaja-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 26,
+      "category": "Linkaja",
+      "title": "Cara Kerja LinkAja PayLater",
+      "image": "https://i.pinimg.com/736x/ef/6e/e9/ef6ee9c875e00133de8d799df531aecc.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/cara-kerja-linkaja-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 27,
+      "category": "Linkaja",
+      "title": "Syarat & Verifikasi yang Umum Dibutuhkan LinkAja PayLater",
+      "image": "https://i.pinimg.com/736x/95/d8/75/95d8751e9bf4658a880e0170752ff235.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/syarat-verifikasi-linkaja-paylater.html",
+      "video": ""
+    },
+    {
+      "id": 28,
+      "category": "Linkaja",
+      "title": "Cara Mengaktifkan LinkAja PayLater",
+      "image": "https://i.pinimg.com/736x/b8/e0/54/b8e05413649c61fed49e5a2b1caa621b.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/cara-mengaktifkan-linkaja-paylater.html?rewarded",
+      "video": ""
+    },
+    {
+      "id": 29,
+      "category": "Linkaja",
+      "title": "Cara Menggunakan LinkAja PayLater Saat Pembayaran",
+      "image": "https://i.pinimg.com/736x/4c/79/b2/4c79b2fb0acb0fd727cc31aea7c83450.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/cara-menggunakan-linkaja-paylater-saat.html",
+      "video": ""
+    },
+    {
+      "id": 30,
+      "category": "Linkaja",
+      "title": "Cara Cek Tagihan, Jatuh Tempo, dan Status Pembayaran",
+      "image": "https://i.pinimg.com/736x/02/14/f6/0214f631459d9ea8c0576ca69cef1a7b.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/cara-cek-tagihan-jatuh-tempo-linkaja.html",
+      "video": ""
+    },
+    {
+      "id": 31,
+      "category": "Linkaja, Tips & Trick",
+      "title": "Keamanan Akun & Tips Menghindari Penipuan LinkAja PayLater",
+      "image": "https://i.pinimg.com/736x/81/f8/f0/81f8f0ecb5186771a65e05719da7821c.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/keamanan-akun-tips-menghindari-penipuan.html",
+      "video": ""
+    },
+    {
+      "id": 32,
+      "category": "Linkaja",
+      "title": "FAQ LinkAja PayLater & Solusi Masalah Umum",
+      "image": "https://i.pinimg.com/736x/b7/6c/bb/b76cbbfc44b6f902a62400b8985359dd.jpg",
+      "content": "https://prmptphoto.blogspot.com/2026/01/faq-linkaja-paylater-solusi-masalah-umum.html",
+      "video": ""
+    }
+  ]
+}
