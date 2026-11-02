@@ -77,10 +77,10 @@
   ],
   "theme": [
     {
-      "palette": "biru",
-      "brand_name": "BaseGuide",
-      "brand_initial": "B",
-      "brand_tagline": "Panduan dompet digital & paylater",
+      "palette": "teal",
+      "brand_name": "Cara Aktifkan Dana Pinjam",
+      "brand_initial": "C",
+      "brand_tagline": "Panduan tidak resmi seputar DANA Cicil",
       "font_family": "custom",
       "corner_style": "rounded",
       "page_transition": "fade_forwards",
@@ -118,19 +118,19 @@
       "enabled": true,
       "pages": [
         {
-          "title": "Selamat datang di BaseGuide",
-          "body": "Kumpulan panduan dompet digital dan paylater yang ringkas dan mudah diikuti.",
-          "image_url": ""
+          "title": "Kenali fitur yang sebenarnya",
+          "body": "\"Dana Pinjam\" bukan nama produk DANA. Pelajari DANA Cicil, syarat aksesnya, dan cara mengaktifkannya dari sumber resmi.",
+          "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4NomaAhVAOG3l1xVfr77EW5HrNvRljsKDc_QODxhJ5Fa_d4V0bBfS0sEBlsGJiweFYdlGF59xKrFZd-iQTDqtoYaEDIh7_4mbcYhxwH9rt3z659Y2-hweZE-Q83sylg3ozPStsW1YkaUfPbYvwpIWGwBuQGqZ70YTRh6RfDzYmv1RH6z7gH0jeGWepHY/s1600/d01-apa-itu-dana-pinjam-di-aplikasi-dana.png"
         },
         {
-          "title": "Panduan langkah demi langkah",
-          "body": "Setiap panduan disusun berurutan, dari syarat sampai cara mengaktifkan fitur.",
-          "image_url": ""
+          "title": "Langkah aktivasi yang aman",
+          "body": "Panduan berurutan dari upgrade DANA Premium sampai mengecek limit, tanpa tautan pendaftaran dari pihak lain.",
+          "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwILfLLGxS7Om_VhUzV-oRHf4N94p-FFlUFQXC1XAG1sXNfOXdQIybhBjHOeU7JRw7DC-ZvIhuVZRSJ_AzySsuRcLl1v5OO8Q0ST-OZKe7WhT6Gdd7wjVnsALDTVWZZgkCxDpDc5jbMci_HiKVVX9iBVYqQbaysSza4XZAUz1D7wXohieUwA9A6eNmzrM/s1600/d05-cara-aktivasi-dana-cicil.png"
         },
         {
-          "title": "Simpan dan cari panduan",
-          "body": "Tandai panduan penting dan temukan lagi lewat pencarian kapan pun kamu butuh.",
-          "image_url": ""
+          "title": "Lindungi akun dari penipuan",
+          "body": "Jangan berikan PIN dan OTP kepada siapa pun. Kenali hoaks, CS palsu, dan cara melapor.",
+          "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiflHoTKFFMt2lzx9_La4c4UXsfvbdmf3Smv2mn1nSgioGzTRyzdoZlcuf7J_Hzj8PeyHETcE4fp98VB08M_xMOvAuWNIn_TidG7tGiVgvPxgnRtEOfUqLR3hhYQPwTY1eax3rX6ijuStNYItSe1cAcN89JJumnFoWifv4GlCz6Z7yzITO84V9RUsF9ID4/s1600/d08-jangan-berikan-pin-otp-dana.png"
         }
       ]
     }
