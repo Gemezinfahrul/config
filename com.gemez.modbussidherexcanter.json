@@ -293,7 +293,7 @@
   },
   "Ads": [
     {
-      "enable_ads": false,
+      "enable_ads": true,
       "enable_inter": true,
       "enable_open": true,
       "enable_reward": true,
