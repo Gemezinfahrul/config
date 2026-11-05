@@ -1,13 +1,8 @@
 {
-  "bootstrap": {
-    "url": "https://gemezinfahrul.github.io/config/com.gemez.modbussidherexcanter.json",
-    "refresh_minutes": 1
-  },
+  "schema": 2,
   "catalog_overlay": {
     "url": "https://gemezinfahrul.github.io/config/com.gemez.modbussidherexcanter-overlay.json",
-    "seq": 0,
-    "items": true,
-    "hosts": []
+    "seq": 7
   },
   "storage": {
     "folders": [
@@ -123,6 +118,26 @@
         "name": "Mobil",
         "image": "",
         "art": "car"
+      },
+      {
+        "name": "Bus",
+        "image": "",
+        "art": "bus"
+      },
+      {
+        "name": "Motor",
+        "image": "",
+        "art": "bike"
+      },
+      {
+        "name": "Maps",
+        "image": "",
+        "art": "other"
+      },
+      {
+        "name": "Livery Nakula",
+        "image": "",
+        "art": "livery"
       }
     ]
   },
