@@ -323,8 +323,8 @@
         "admob",
         "applovin"
       ],
-      "inter_applovin": "",
-      "reward_applovin": "",
+      "inter_applovin": "809dd003b568c5fd",
+      "reward_applovin": "c0938486b520e532",
       "open_on_start": true,
       "open_timeout_seconds": 5,
       "reward_required": true,
